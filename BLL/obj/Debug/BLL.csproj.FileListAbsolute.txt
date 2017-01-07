@@ -1,0 +1,22 @@
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BLL\bin\Debug\BLL.dll
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BLL\bin\Debug\BLL.pdb
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BLL\bin\Debug\BOL.dll
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BLL\bin\Debug\DAL.dll
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BLL\bin\Debug\EntityFramework.dll
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BLL\bin\Debug\BOL.pdb
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BLL\bin\Debug\DAL.pdb
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BLL\bin\Debug\EntityFramework.xml
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BLL\obj\Debug\BLL.dll
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BLL\obj\Debug\BLL.pdb
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Debug\BLL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Debug\BLL.pdb
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Debug\BOL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Debug\DAL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Debug\EntityFramework.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Debug\BOL.pdb
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Debug\DAL.pdb
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Debug\EntityFramework.xml
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\obj\Debug\BLL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\obj\Debug\BLL.pdb

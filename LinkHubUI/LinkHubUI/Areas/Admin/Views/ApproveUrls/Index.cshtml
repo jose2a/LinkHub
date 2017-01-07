@@ -1,0 +1,131 @@
+﻿@model IEnumerable<BOL.tbl_Url>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<script src="~/scripts/jquery-1.10.2.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+
+        BindSelectAll();
+
+        $(document).ajaxStart(function () {
+            $('#loading').show();
+        });
+
+        $(document).ajaxStop(function () {
+            $('#loading').hide();
+        });
+
+        $('#Approve').click(function() {
+            var checkIds = $('.ckb').filter(':checked').map(function () { return this.id });
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("ApproveOrRejectAll", "ApproveUrls")',
+                traditional : true,
+                data: { ids: checkIds.toArray(), Status: 'A', CurrentStatus: '@ViewBag.Status' },
+                success: successFunc,
+                error: errorFunc                
+            });
+        });
+
+        $('#Reject').click(function () {
+            var checkIds = $('.ckb').filter(':checked').map(function () { return this.id });
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("ApproveOrRejectAll", "ApproveUrls")',
+                traditional : true,
+                data: { ids: checkIds.toArray(), Status: 'R', CurrentStatus: '@ViewBag.Status' },
+                success: successFunc,
+                error: errorFunc
+            });
+        });
+
+        function successFunc(data, status) {
+            $('#Data').html(data);
+            BindSelectAll();
+        }
+
+        function errorFunc() {
+            alert('Error');
+        }
+
+    });
+
+    function BindSelectAll() {
+        $('#selectall').click(function () {
+            if (this.checked) {
+                $('.ckb').each(function () {
+                    this.checked = true;
+                });
+            }
+            else {
+                $('.ckb').each(function () {
+                    this.checked = false;
+                });                
+            }
+        });
+    }
+
+    function ConfirmApprove() {
+        return confirm('Are you sure you want to approve?');
+    }
+
+    function ConfirmReject() {
+        return confirm('Are you sure you want to reject?');
+    }
+
+</script>
+
+<h2>Manage URLs</h2>
+
+<div id="loading" class="modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Loading...</h4>
+            </div>
+            <div class="modal-body">
+                <div class="progress progress-striped active">
+                    <div class="progress-bar" style="width: 100%"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<ul class="nav nav-pills">
+    @if (ViewBag.Status == "P")
+    {
+        <li class="active">@Html.ActionLink("Pending Urls", "Index", new { Status = "P" })</li>
+    }
+    else
+    {
+        <li> @Html.ActionLink("Pending Urls", "Index", new { Status = "P" })</li>
+    }
+    @if (ViewBag.Status == "A")
+    {
+        <li class="active">@Html.ActionLink("Approved Urls", "Index", new { Status = "A" }) </li>
+    }
+    else
+    {
+        <li>@Html.ActionLink("Approved Urls", "Index", new { Status = "A" })</li>
+    }
+    @if (ViewBag.Status == "R")
+    {
+        <li class="active">@Html.ActionLink("Rejected Urls", "Index", new { Status = "R" }) </li>
+    }
+    else
+    {
+        <li>@Html.ActionLink("Rejected Urls", "Index", new { Status = "R" })</li>
+    }
+</ul>
+<br />
+<div id="Data">
+    @Html.Partial("pv_ApproveURLs", Model)
+</div>
+
+<input type="button" id="Approve" value="Approve" class="btn btn-primary" /> |
+<input type="button" id="Reject" value="Reject" class="btn btn-primary" />

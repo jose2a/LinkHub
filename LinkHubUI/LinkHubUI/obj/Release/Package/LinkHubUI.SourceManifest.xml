@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <DbDacFx path="F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\LinkHubUI\LinkHubUI\obj\Release\AutoScripts\LinkHubDbConnectionString_IncrementalSchemaOnly.dacpac" dacpacAction="Deploy" />
+  <IisApp path="F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\LinkHubUI\LinkHubUI\obj\Release\Package\PackageTmp" />
+  <setAcl path="F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\LinkHubUI\LinkHubUI\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\LinkHubUI\LinkHubUI\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="LinkHubDbEntities-Web.config Connection String" description="LinkHubDbEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/LinkHubModel.csdl|res://*/LinkHubModel.ssdl|res://*/LinkHubModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=VAIO;initial catalog=LinkHubDb;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\Courses\\Udemy\\Asp\.Net\ MVC\ Web\ App\ On\ 3\ Tier\ Architecture\\project_v2\\LinkHubUI\\LinkHubUI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LinkHubDbEntities']/@connectionString" />
+  </parameter>
+  <parameter name="LinkHubDbConnectionString-Web.config Connection String" description="LinkHubDbConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=VAIO;Initial Catalog=LinkHubDb;Integrated Security=True;MultipleActiveResultSets=True;Application Name=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\Courses\\Udemy\\Asp\.Net\ MVC\ Web\ App\ On\ 3\ Tier\ Architecture\\project_v2\\LinkHubUI\\LinkHubUI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LinkHubDbConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

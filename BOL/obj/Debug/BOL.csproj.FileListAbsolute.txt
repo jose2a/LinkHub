@@ -1,0 +1,20 @@
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BOL\bin\Debug\BOL.dll.config
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BOL\bin\Debug\BOL.dll
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BOL\bin\Debug\BOL.pdb
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BOL\bin\Debug\EntityFramework.dll
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BOL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BOL\bin\Debug\EntityFramework.xml
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BOL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BOL\obj\Debug\BOL.dll
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BOL\obj\Debug\BOL.pdb
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Debug\BOL.dll.config
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Debug\BOL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Debug\BOL.pdb
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Debug\EntityFramework.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Debug\EntityFramework.xml
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\obj\Debug\BOL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\obj\Debug\BOL.pdb

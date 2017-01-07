@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="linkhubj2arriaga" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\Courses\\Udemy\\Asp\.Net\ MVC\ Web\ App\ On\ 3\ Tier\ Architecture\\project_v2\\LinkHubUI\\LinkHubUI\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^F:\\Courses\\Udemy\\Asp\.Net\ MVC\ Web\ App\ On\ 3\ Tier\ Architecture\\project_v2\\LinkHubUI\\LinkHubUI\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="LinkHubDbConnectionString-Web.config Connection String" description="" value="Server=tcp:jose2arriaga.database.windows.net,1433;Initial Catalog=linkhubdb;Persist Security Info=False;User ID=josearriaga;Password=863Lkl100%;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="">
+    <parameterEntry kind="XmlFile" scope="F:\\Courses\\Udemy\\Asp\.Net\ MVC\ Web\ App\ On\ 3\ Tier\ Architecture\\project_v2\\LinkHubUI\\LinkHubUI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LinkHubDbConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="LinkHubDbEntities-Web.config Connection String" description="" value="metadata=res://*/LinkHubModel.csdl|res://*/LinkHubModel.ssdl|res://*/LinkHubModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;Data Source=VAIO;Initial Catalog=LinkHubDb;Integrated Security=True;MultipleActiveResultSets=True;Application Name=EntityFramework&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="F:\\Courses\\Udemy\\Asp\.Net\ MVC\ Web\ App\ On\ 3\ Tier\ Architecture\\project_v2\\LinkHubUI\\LinkHubUI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LinkHubDbEntities']/@connectionString" />
+  </parameter>
+</parameters>

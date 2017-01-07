@@ -1,0 +1,10 @@
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Release\BOL.dll.config
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Release\BOL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Release\BOL.pdb
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Release\EntityFramework.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Release\EntityFramework.SqlServer.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Release\EntityFramework.xml
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\bin\Release\EntityFramework.SqlServer.xml
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\obj\Release\BOL.csprojResolveAssemblyReference.cache
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\obj\Release\BOL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BOL\obj\Release\BOL.pdb

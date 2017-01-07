@@ -1,0 +1,11 @@
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Release\BLL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Release\BLL.pdb
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Release\BOL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Release\DAL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Release\EntityFramework.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Release\BOL.pdb
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Release\DAL.pdb
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\bin\Release\EntityFramework.xml
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\obj\Release\BLL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\BLL\obj\Release\BLL.pdb

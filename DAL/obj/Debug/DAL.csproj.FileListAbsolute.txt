@@ -1,0 +1,18 @@
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\DAL\bin\Debug\DAL.dll
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\DAL\bin\Debug\DAL.pdb
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\DAL\bin\Debug\BOL.dll
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\DAL\bin\Debug\EntityFramework.dll
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\DAL\bin\Debug\BOL.pdb
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\DAL\bin\Debug\EntityFramework.xml
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\DAL\obj\Debug\DAL.dll
+D:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture v2\project_v2\DAL\obj\Debug\DAL.pdb
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\DAL\bin\Debug\DAL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\DAL\bin\Debug\DAL.pdb
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\DAL\bin\Debug\BOL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\DAL\bin\Debug\EntityFramework.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\DAL\bin\Debug\BOL.pdb
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\DAL\bin\Debug\EntityFramework.xml
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\DAL\obj\Debug\DAL.dll
+F:\Courses\Udemy\Asp.Net MVC Web App On 3 Tier Architecture\project_v2\DAL\obj\Debug\DAL.pdb
